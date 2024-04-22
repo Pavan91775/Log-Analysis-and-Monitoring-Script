@@ -1,4 +1,3 @@
-# Log Monitor Script
 
 ## Description
 This script monitors a specified log file for new entries and performs basic analysis by counting occurrences of specific keywords.
