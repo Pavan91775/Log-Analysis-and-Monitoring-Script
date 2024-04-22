@@ -1,6 +1,6 @@
 
 
-
+```bash
 #!/bin/bash
 
 # log-monitor.sh
@@ -49,3 +49,4 @@ echo "Press Ctrl+C to stop and generate summary report"
 monitor_logs
 
 # End of script
+```bash
