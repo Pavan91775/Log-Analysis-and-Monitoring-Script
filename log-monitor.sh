@@ -1,8 +1,7 @@
-*Log-Analysis-and-Monitoring-Script*
+~Log-Analysis-and-Monitoring-Script~
 
 
 #!/bin/bash
-
 # log-monitor.sh
 # Script to monitor and analyze log file entries
 
