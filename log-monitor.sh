@@ -1,5 +1,4 @@
 
-```
 #!/bin/bash
 
 # log-monitor.sh
@@ -49,4 +48,3 @@ monitor_logs
 
 # End of script
 
-```
