@@ -8,7 +8,7 @@ Bash Shell Scripting
 
 # Variables
 LOG_FILE="/path/to/your/logfile.log" # Replace with the path to your log file
-KEYWORDS=("error" "fail" "warning") # Add keywords to track
+KEYWORDS=("error" "fail" "warning,HTTP status") # Add keywords to track
 
 # Function to monitor new log entries
 monitor_logs() {
