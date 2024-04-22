@@ -1,5 +1,3 @@
-Log-Analysis-and-Monitoring-Script
-
 
 #!/bin/bash
 # log-monitor.sh
