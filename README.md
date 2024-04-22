@@ -15,3 +15,6 @@ This script monitors a specified log file for new entries and performs basic ana
 
 ## Dependencies
 No external dependencies required.
+
+Please replace /path/to/your/logfile.log with the actual path to the log file you want to monitor and add any specific keywords you want to track in the KEYWORDS array. To use the script, save it as log-monitor.sh, give it execute permissions with chmod +x log-monitor.sh, and run it with bash log-monitor.sh. Press Ctrl+C to stop monitoring and generate a summary report.
+
